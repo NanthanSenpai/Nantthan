@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nantham A</h1>
 <h3 align="center">Web Developer & Tech Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/yp5IJ9A40pI" alt="web development">
+<img align="right" alt="Coding" width="400" src="./images/coding.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanthamfb&label=Profile%20views&color=0e75b6&style=flat" alt="nanthamfb" /> </p>
 
